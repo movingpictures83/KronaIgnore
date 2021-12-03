@@ -1,0 +1,2 @@
+Prefix plugins/KronaIgnore/example/
+Plugin KronaIgnore inputfile parameters.txt outputfile input.filtered.krona
